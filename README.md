@@ -4,12 +4,14 @@ HOW TO USE:
 
 -Define the script's variables (Downloads Folder, zip file name, destination... etc)
 
--Download your overleaf project and name it accordingly
+- Make sure yout project's name and the $ZIPFILE variable match
 
--init a repo in your destination folder
+- Download your overleaf project 
 
--chmod +x script.sh
+- init a repo in your destination folder
 
--./script.sh
+- chmod +x script.sh
+
+- ./script.sh
 
 
