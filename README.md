@@ -2,7 +2,7 @@
 
 HOW TO USE:
 
--Define the scripts variables (Downloads Folder, zip file name, destination... etc)
+-Define the script's variables (Downloads Folder, zip file name, destination... etc)
 
 -Download your overleaf project and name it accordingly
 
