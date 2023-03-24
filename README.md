@@ -2,7 +2,7 @@
 
 HOW TO USE:
 
--Define the script's variables (Downloads Folder, zip file name, destination... etc)
+- Define the script's variables (Downloads Folder, zip file name, destination... etc)
 
 - Make sure yout project's name and the $ZIPFILE variable match
 
