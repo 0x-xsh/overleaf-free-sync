@@ -1,4 +1,6 @@
 # overleaf-free-sync
+  A simple tool to sync an overleaf project with git* for free!
+
 
 HOW TO USE:
 
